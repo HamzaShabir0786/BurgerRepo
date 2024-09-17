@@ -136,4 +136,14 @@ nav .style-nav ul li a:hover::before {
   nav .style-nav .navigates ul {
     gap: 1.6rem;
   }
+
+  nav .style-nav ul li a::before {
+    position: absolute;
+    content: " ";
+    border-bottom: 3px solid red;
+    border-radius: 20px;
+    margin-top: 1.4rem;
+    width: 0%;
+    transition: all 0.25s linear;
+  }
 }
