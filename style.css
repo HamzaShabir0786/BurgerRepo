@@ -126,7 +126,7 @@ nav .style-nav ul li a:hover::before {
     align-items: center;
     color: green;
     font-size: 1.8rem;
-    font-weight: 580;
+    font-weight: 500;
   }
 
   nav .style-nav ul li a {
