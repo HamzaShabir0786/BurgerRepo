@@ -128,7 +128,7 @@ nav .style-nav ul li a:hover::before {
     font-weight: 580;
   }
 
-  nav .style-nav ul li {
+  nav .style-nav ul li a {
     font-size: 1rem;
     font-weight: 500;
   }
