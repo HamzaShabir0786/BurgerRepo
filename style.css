@@ -1,4 +1,4 @@
-* {
+/* * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -64,7 +64,7 @@ nav .style-nav ul li a::before {
 }
 
 /* state change */
-nav .style-nav ul li a:hover::before {
+/* nav .style-nav ul li a:hover::before {
   color: white;
   width: 100%;
   border-bottom: 3px solid green;
@@ -146,4 +146,18 @@ nav .style-nav ul li a:hover::before {
     width: 0%;
     transition: all 0.25s linear;
   }
+}  */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+div {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
