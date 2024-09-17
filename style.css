@@ -7,7 +7,7 @@
   font-family: sans-serif;
 }
 nav {
-  background: linear-gradient(50deg, green, blue);
+  background: gray;
   color: #fff;
   padding: 10px;
   display: flex;
@@ -18,7 +18,7 @@ nav {
   width: 100%;
 }
 nav .style-nav {
-  background: linear-gradient(45deg, pink, skyblue);
+  background: linear-gradient(45deg, white, skyblue);
   width: 80%;
   display: flex;
   justify-content: space-around;
