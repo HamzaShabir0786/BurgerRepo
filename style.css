@@ -108,6 +108,7 @@ nav .style-nav ul li a:hover::before {
     align-items: center;
     justify-content: center;
     background-color: red;
+    padding: 0.3rem;
     width: 100%;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
